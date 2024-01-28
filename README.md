@@ -5,4 +5,4 @@
 - Clustering algorithm for product purchase in a supermarket
 -
 There is a code to create environment on linux and install relevant libraries to support your project.  
-  
+I allow attached a Python code that allows you create Folders and also Move content into the created folders
