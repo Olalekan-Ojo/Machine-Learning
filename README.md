@@ -4,5 +4,9 @@
 - Setiment analysis on Twitter dataset on ChatGPT launching
 - Clustering algorithm for product purchase in a supermarket
 -
+
+
 There is a code to create environment on linux and install relevant libraries to support your project.  
-I allow attached a Python code that allows you create Folders and also Move content into the created folders
+I added a Python code that allows you create Folders and also Move content into the created folders  
+
+code that allows you import code directly from aws (s3 bucket) into notebook
