@@ -1,1 +1,32 @@
+----------Create a Linux Environment for your project-----------------
 
+- Install Virtual environment package 
+ 
+python3 -m pip install --user virtualenv
+
+- Create a Virtual Environement (folder)
+
+python3 -m virtualenv env 
+
+#env is the name of your virtual environment... it can be any name of choice 
+
+- Activate the Virtual Environment created 
+
+source env/bin/activate
+
+- Install Jupyter Notebook
+
+pip3 install jupyterlab
+pip3 install notebook
+
+- create a Jupyter notebook Kernel to make the virtual Environment available in Jupyter Notebook 
+
+python3 -m ipykernel install --user --name=env
+
+- Launch Jupyter Notebook workspace
+
+jupyter notebook
+
+
+#Please note for recent versions of jupyter notebook, an empty page might load up with http://localhost:8888/tree error
+When this happens rather than use *jupyter notebook* to launch your workspace use *Jupyter lab*
