@@ -6,7 +6,10 @@
 -
 
 
-There is a code to create environment on linux and install relevant libraries to support your project.  
-I added a Python code that allows you create Folders and also Move content into the created folders  
 
-code that allows you import code directly from aws (s3 bucket) into notebook
+Additional code:  
+
+- Code to create your linux virtual environment and install relevant libraries to support your project in python notebook.
+- code to import dataset directly from aws (s3 bucket) into python notebook.
+- Python code that allows you create Folders and also Move content into the created folders  
+
