@@ -1,5 +1,5 @@
 # Machine-Learning
-This are projects 
+Explore Machine learning techniques and applications to real world scenarios  
 - Staff Attrition/ Churn Prediction using KNN Classification 
 - Text mining on Twitter dataset of ChatGPT launching.
 - Setiment analysis on Twitter dataset on ChatGPT launching
