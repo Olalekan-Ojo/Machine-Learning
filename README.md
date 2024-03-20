@@ -4,7 +4,7 @@ Explore Machine learning techniques and applications to real world scenarios
 - Text mining on Twitter dataset of ChatGPT launching.
 - Setiment analysis on Twitter dataset on ChatGPT launching
 - Clustering algorithm for product purchase in a supermarket
-
+- Premeiere league score prediction model
   
 Additional code:  
 - Code to create your linux virtual environment and install relevant libraries to support your project in python notebook.
