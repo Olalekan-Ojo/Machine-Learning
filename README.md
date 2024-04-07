@@ -7,6 +7,7 @@ Explore Machine learning techniques and applications to real world scenarios
 - Data bricks
   -  Clinical trials dataset 2023
   -  Pharma
+  -  MONGO DB
   
 Additional code:  
 - Code to create your linux virtual environment and install relevant libraries to support your project in python notebook.
