@@ -9,7 +9,7 @@ Explore Machine learning techniques and applications to real world scenarios
   -  Pharma
   -  MONGO DB
   -  Recommender Systems
-
+  - 
 #
 
 Additional code:  
