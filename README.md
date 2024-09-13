@@ -4,6 +4,7 @@ Explore Machine learning techniques and applications to real world scenarios
 - Text mining on Twitter dataset of ChatGPT launching.
 - Setiment analysis on Twitter dataset on ChatGPT launching
 - Clustering algorithm for product purchase in a supermarket
+- 
 - Data bricks
   -  Clinical trials dataset 2023
   -  Pharma
