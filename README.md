@@ -12,9 +12,6 @@ Explore Machine learning techniques and applications to real world scenarios
   -  Recommender Systems
 
 
-
-
-
 Additional code:  
 - Code to create your linux virtual environment and install relevant libraries to support your project in python notebook.
 - code to import dataset directly from aws (s3 bucket) into python notebook.
